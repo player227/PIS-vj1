@@ -16,5 +16,10 @@ namespace PIS_vj1
         {
             return b;
         }
+        public int c;
+        public int WhatIsC()
+        {
+            return b;
+        }
     }
 }
