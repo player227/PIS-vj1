@@ -6,7 +6,8 @@ namespace PIS_vj1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("PIS: Vjezba 1");
+            Console.WriteLine("Novo!");
         }
     }
 }
