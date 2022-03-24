@@ -6,5 +6,10 @@ namespace PIS_vj1
 {
     class NewClass
     {
+        public int b;
+        public int WhatIsB() 
+        {
+            return B;
+        }
     }
 }
