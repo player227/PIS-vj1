@@ -7,9 +7,14 @@ namespace PIS_vj1
     class NewClass
     {
         public int a;
-        public int WhatIsA() 
+        public int WhatIsA()
         {
             return a;
+        }
+        public int b;
+        public int WhatIsB() 
+        {
+            return b;
         }
     }
 }
